@@ -1,3 +1,6 @@
+> Historical coursework feedback. The shared split and band handling now supersede the earlier split and channel-layout assumptions.
+
+
 # Feedback
 
 ## Things I found confusing

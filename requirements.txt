@@ -3,6 +3,6 @@ numpy
 scikit-learn
 matplotlib
 torch
-torchvision
 tqdm
 ipykernel
+jupyterlab>=4,<5
